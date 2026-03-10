@@ -12,15 +12,15 @@ Based in Tefé, Amazonas - Brazil
 </p>
 
 <p align="center">
-<a href="mailto:seuemail@email.com">
+<a href="mailto:tiagohenrique.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-black?style=for-the-badge&logo=github">
+<a href="https://github.com/tiagohenriquee">
+<img src="https://img.shields.io/badge/GitHub-tiagohenriquee-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/SEU_USUARIO">
+<a href="https://linkedin.com/in/tiagohenrique">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 </p>
@@ -153,9 +153,9 @@ Key contributions:
 
 # Contact
 
-Email: seuemail@email.com
+Email: tiagohenrique.dev@gmail.com
 
-GitHub: https://github.com/SEU_USUARIO
+GitHub: https://github.com/tiagohenriquee
 
 LinkedIn: https://linkedin.com/in/SEU_USUARIO
 
