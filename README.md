@@ -3,7 +3,7 @@
 <h1 align="center">Tiago Henrique de Souza da Silva</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer+(.NET+%2F+Node.js);Infrastructure+Engineer;Computer+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer+(.NET+%2F+Python+%2F+Node.js);Infrastructure+Engineer;Computer+Engineer">
 </p>
 
 <p align="center">
@@ -38,9 +38,9 @@ I'm a **Computer Engineer and Full Stack Developer** focused on building **scala
 
 My work combines **software development with infrastructure engineering**, allowing me to design, build and deploy **complete production-ready systems**.
 
-Currently working on **digital platforms and systems for the public sector**, developing solutions used by municipal services.
+I work with technologies such as **React, C# (.NET), Python (FastAPI) and Node.js**, and I design infrastructure environments using **Docker, Nginx, Linux servers and Cloudflare Tunnel**.
 
-I enjoy working with **backend engineering, DevOps practices and scalable architectures**.
+Currently developing **digital systems and platforms for the public sector**, including services used by municipal administrations.
 
 Main interests:
 
@@ -57,6 +57,7 @@ Main interests:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
 
 ### Frontend
@@ -68,6 +69,7 @@ Main interests:
 
 ### Backend
 
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![.NET](https://img.shields.io/badge/.NET-blue?logo=dotnet)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-purple?logo=dotnet)
@@ -104,13 +106,13 @@ Key features:
 
 • Scholarship application platform
 • Administrative management panel
-• Backend APIs for application processing
-• Containerized architecture using Docker
-• Secure deployment via Cloudflare Tunnel
+• Backend APIs developed using **Python FastAPI**
+• Containerized architecture with Docker
+• Secure deployment using Cloudflare Tunnel
 
 Technologies used:
 
-React • Node.js • PostgreSQL • Docker • Nginx
+React • FastAPI • PostgreSQL • Docker • Nginx
 
 ---
 
@@ -164,15 +166,16 @@ Docker • Nginx • Linux • Cloudflare Tunnel
 
 # 📬 Contact
 
-📧 Email: [tiagohenrique.dev@gmail.com](mailto:tiagohenrique.dev@gmail.com)
+📧 Email:
+[tiagohenrique.dev@gmail.com](mailto:tiagohenrique.dev@gmail.com)
 
-💻 GitHub:
+💻 GitHub
 https://github.com/tiagohenriquee
 
-🔗 LinkedIn:
-https://linkedin.com/in/tiagohenrique
+🔗 LinkedIn
+https://linkedin.com/in/tiago-henriquee
 
-📍 Location:
+📍 Location
 Tefé, Amazonas - Brazil
 
 ---
