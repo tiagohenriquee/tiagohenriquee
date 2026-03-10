@@ -4,7 +4,7 @@
 <h1 align="center">Tiago Henrique de Souza da Silva</h1>
 
 <p align="center">
-Full Stack Developer • Infrastructure Engineer • Computer Engineering Student
+<img src="https://komarev.com/ghpvc/?username=tiagohenriquee&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
