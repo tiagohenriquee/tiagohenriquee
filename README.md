@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Full Stack Developer • Infrastructure Engineer • Computer Engineering Student
+Full Stack Developer • Computer Engineer
 </p>
 
 <p align="center">
