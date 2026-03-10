@@ -7,7 +7,41 @@
 </p>
 
 <p align="center">
-Full Stack Developer • Computer Engineer
+Computer Engineer • Full Stack Developer • DevOps Enthusiast
+</p>
+
+<p align="center">
+Based in Tefé, Amazonas - Brazil
+</p>
+
+<p align="center">
+
+<a href="mailto:tiagohenrique.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/tiagohenriquee">
+<img src="https://img.shields.io/badge/GitHub-tiagohenriquee-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/tiagohenrique">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<!-- PROFILE README -->
+
+<h1 align="center">Tiago Henrique de Souza da Silva</h1>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tiagohenriquee&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+Full Stack Developer • Infrastructure Engineer • Computer Engineer
 </p>
 
 <p align="center">
@@ -34,13 +68,13 @@ Based in Tefé, Amazonas - Brazil
 
 # About Me
 
-I'm a **Full Stack Developer and Computer Engineering student** focused on building **scalable web systems and modern infrastructure environments**.
+I'm a **Computer Engineer and Full Stack Developer** focused on building **scalable web systems and modern infrastructure environments**.
 
 My work combines **software development and infrastructure engineering**, allowing me to design and deploy complete **production-ready systems**.
 
-Currently working on **digital systems and platforms for the public sector**, where I develop and deploy applications used by municipal services.
+Currently working on **digital systems and platforms for the public sector**, developing and deploying applications used by municipal services.
 
-Main interests:
+I have strong interest in:
 
 * System architecture
 * DevOps and infrastructure automation
