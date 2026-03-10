@@ -24,7 +24,7 @@ Based in Tefé, Amazonas - Brazil
 <img src="https://img.shields.io/badge/GitHub-tiagohenriquee-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/tiagohenrique">
+<a href="https://linkedin.com/in/tiago-henrique">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
